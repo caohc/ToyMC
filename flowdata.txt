@@ -1,0 +1,25 @@
+sumsin5_minus  -0.002171    	sumsin5_plus  -0.01011
+sumsin4_minus   0.01056 	sumsin4_plus   0.01111
+sumsin3_minus  -0.002076	sumsin3_plus   0.006854
+sumsin2_minus  -0.001143	sumsin2_plus  -0.003353
+sumsin1_minus  -0.002018	sumsin1_plus   0.007002 
+
+sumcos5_minus   0.01168		sumcos5_plus  -0.02277
+sumcos4_minus  -0.008631	sumcos4_plus  -0.01584
+sumcos3_minus   0.01436		sumcos3_plus  -0.004549
+sumcos2_minus   6.573		sumcos2_plus   6.575
+sumcos1_minus   0.01897		sumcos1_plus  -0.0138
+
+
+sin5_minus	-1.5e-05	sin5_plus	-6.99e-05
+sin4_minus	 7.299e-05	sin4_plus	7.675e-05
+sin3_minus	-1.435e-05	sin3_plus	4.737e-05
+sin2_minus	-7.957e-06	sin2_plus	-2.322e-05
+sin1_minus	-1.395e-05	sin1_plus	4.839e-05
+
+cos5_minus	 8.071e-05	cos5_plus	-0.0001573
+cos4_minus	-5.966e-05	cos4_plus	-0.0001095
+cos3_minus	 9.927e-05	cos3_plus	-3.144e-05
+cos2_minus	 0.04543	cos2_plus	 0.04544
+cos1_minus  	 0.0001311	cos1_plus	 -9.539e-05
+
